@@ -76,12 +76,4 @@ Looking for new opportunities.
 </picture>
 </a> &nbsp;
 
-### Badges
-#### My GitHub Stats
-
-<br/>
-<a href="http://www.github.com/paulinasprojects"><img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=paulinasprojects&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a> <br/>
-
-
-
 <!-- Thank you for using ProfileX - https://profilex.dev [by Vandit Shah] -->
